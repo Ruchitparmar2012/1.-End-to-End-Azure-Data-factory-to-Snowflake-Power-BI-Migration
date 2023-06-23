@@ -66,10 +66,3 @@ This project showcases an end-to-end data integration and visualization pipeline
 
 For detailed implementation instructions and further customization options, please refer to the project documentation available in the repository's README on GitHub.
 
-
-
-    
-
-
-
-# 1.-End-to-End-Azure-Data-factory-to-Snowflake-Power-BI-Migration
