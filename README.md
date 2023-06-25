@@ -3,7 +3,7 @@
 
 # End to End Azure  Data factory to Snowflake & Power BI Migration
 
-This project aims to establish a seamless data integration pipeline that extracts data from an Azure Data Blob in JSON format, converts it into CSV format, loads it into Snowflake, and finally connects Snowflake to Power BI for visualization on a dashboard. 
+This project aims to establish a  data integration pipeline that extracts data from an Azure Data Blob in JSON format, converts it into CSV format, loads it into Snowflake, and finally connects Snowflake to Power BI for visualization on a dashboard. 
 
 The integration process ensures data flow from the Azure Data Blob to Power BI, enabling insightful data visualization and analysis.
 
@@ -63,6 +63,4 @@ To set up and execute the project, follow these steps:
 ### Conclusion
 
 This project showcases an end-to-end data integration and visualization pipeline, starting from an Azure Data Blob, transforming the data, loading it into Snowflake, and visualizing it in Power BI. By following the outlined steps, you can establish a robust data-driven solution that facilitates data exploration, analysis, and reporting for enhanced business insights.
-
-For detailed implementation instructions and further customization options, please refer to the project documentation available in the repository's README on GitHub.
 
