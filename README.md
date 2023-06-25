@@ -11,11 +11,11 @@ The integration process ensures data flow from the Azure Data Blob to Power BI, 
 
 ## Table of Contents
 
-- [Project Overview](#ProjectOverview)
+- [Project Overview](#Project-Overview)
 
-- [Project Components](#ProjectComponents)
+- [Project Components](#Project-Components)
 
-- [Project Setup and Execution](#ProjectSetupandExecution)
+- [Project Setup and Execution](#Project-Setup-and-Execution)
 
 - [Conclusion](#Conclusion)
 
